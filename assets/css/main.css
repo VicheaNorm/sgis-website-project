@@ -3069,3 +3069,6 @@ footer .bottom-footer .social-links {
     transition: 10s;
     background-image: linear-gradient(210deg, #fdc830, #f37335);
 }
+.link-text{
+    color:#667BC6;
+}
